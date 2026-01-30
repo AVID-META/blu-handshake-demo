@@ -1,0 +1,1 @@
+{"name":"blu-handshake-demo","private":true,"scripts":{"dev:client":"cd client && npm install && npm run dev","dev:api":"vercel dev --listen 4000","build":"cd client && npm run build"}}
